@@ -23,8 +23,18 @@ int main() {
     case 3:
     printf("\nVoce escolheu a opcao 3");
     break;
-  }
+
+   
+   
+    default:
+  printf("\nOpcao invalida");
   
   return 0;
+
+
+
+  }
+
+
 
 }
